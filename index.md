@@ -10,8 +10,10 @@ description: stuff
 
 
 # Peeple Punks
-<img src="/static/prof_pic.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
-<!-- ![Kapil](/static/prof_pic.jpg) -->
+<img src="/static/muskpunk.png" alt="Musk" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+<img src="/static/bezospunk.png" alt="Bezos" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+<img src="/static/vitalikpunk.png" alt="Bezos" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+
 
 ---
 
