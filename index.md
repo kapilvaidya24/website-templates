@@ -4,6 +4,8 @@ title: Peeple Punks
 description: stuff
 ---
 
+<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="48">
+
 [![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
 
