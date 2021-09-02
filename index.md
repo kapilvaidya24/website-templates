@@ -10,11 +10,11 @@ description: stuff
 
 <!-- [![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
  -->
-[![Musk URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/muskpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
+<!-- [![Musk URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/muskpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
 [![Bezos URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/bezospunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144182910840733697)
 
-[![Vitalik URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/vitalikpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144184010352361473)
+[![Vitalik URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/vitalikpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144184010352361473) -->
 
 
 
