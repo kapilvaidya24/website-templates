@@ -6,6 +6,7 @@ description: stuff
 
 
 # Peeple Punks
+10,000 PeeplePunks will be available in a gradual rollout. Peeple owning a PeeplePunk will get the right to create their own Punk avatar and register it as an NFT.
 
 <!-- [![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
  -->
