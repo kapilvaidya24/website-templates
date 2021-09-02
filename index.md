@@ -9,7 +9,7 @@ description: stuff
 [![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
 
-# Kapil Vaidya
+# Peeple Punks
 <img src="/static/prof_pic.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/prof_pic.jpg) -->
 
