@@ -4,7 +4,7 @@ title: Kapil Vaidya
 description: stuff
 ---
 
-[![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png=250x250)](https://twitter.com/bukotsunikki)
+[![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png =250x250)](https://twitter.com/bukotsunikki)
 
 
 # Kapil Vaidya
