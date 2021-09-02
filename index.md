@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kapil Vaidya
+title: Peeple Punks
 description: stuff
 ---
 
