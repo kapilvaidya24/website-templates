@@ -8,17 +8,14 @@ description: stuff
 
 [![Twitter URL](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
-[![Twitter URL](/static/muskpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
+[![Musk URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/muskpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
-[![Twitter URL](/static/bezospunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
+[![Bezos URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/bezospunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
-[![Twitter URL](/static/vitalikpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
+[![Vitalik URL](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/vitalikpunk.png)](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/27697906723808931225483426374862232610512630121115086139706144181811329105921)
 
 
 # Peeple Punks
-<img src="/static/muskpunk.png" alt="Musk" style="width: 180px; height: 192px; float: right; margin: 10px"/>
-<img src="/static/bezospunk.png" alt="Bezos" style="width: 180px; height: 192px; float: right; margin: 10px"/>
-<img src="/static/vitalikpunk.png" alt="Bezos" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 
 
 ---
