@@ -4,6 +4,9 @@ title: Kapil Vaidya
 description: stuff
 ---
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+
+
 # Kapil Vaidya
 <img src="/static/prof_pic.jpg" alt="Jialin" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/prof_pic.jpg) -->
