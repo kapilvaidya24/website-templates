@@ -5,7 +5,7 @@ description: stuff
 ---
 
 
-# Peeple Punks
+# PeeplePunks
 100 PeeplePunks will be available in a gradual rollout. Peeple owning a PeeplePunk will get the right to create their own Punk avatar and register it as an NFT.
 
 [ToDo Need to have more paragraphs and also links to important sites.]
