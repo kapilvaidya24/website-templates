@@ -24,6 +24,13 @@ description: stuff
 
 ___
 
+## GIF
+
+![Alt Text](https://raw.githubusercontent.com/kapilvaidya24/website-templates/master/static/ezgif.com-gif-maker.gif)
+
+
+___
+
 ## Contact
 [<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="48">](https://opensea.io/collection/peeple-punks)
 [<img src="https://logodix.com/logo/8578.png" width="48">](https://twitter.com/PeeplePunks)
