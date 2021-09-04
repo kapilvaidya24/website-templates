@@ -6,7 +6,7 @@ description: stuff
 
 
 # PeeplePunks
-100 PeeplePunks will be available in a gradual rollout. Peeple owning a PeeplePunk will get the right to create their own Punk avatar and register it as an NFT.
+100 unique collectible punks with proof of ownership stored on the Ethereum blockchain. A project inspired by the modern CryptoArt movement. 100 PeeplePunks will be made available in a gradual rollout. Peeple owning a PeeplePunk will get the right to create their own Punk avatar and register it as an NFT.
 
 [ToDo Need to have more paragraphs and also links to important sites.]
 
