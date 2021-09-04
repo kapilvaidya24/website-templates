@@ -25,7 +25,7 @@ Musk             |  Bezos  |  Vitalik
 ___
 
 ## Contact
-![<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="48">](https://opensea.io/collection/peeple-punks)
+[!<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="48">](https://opensea.io/collection/peeple-punks)
 
 
 ---
