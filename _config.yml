@@ -44,3 +44,6 @@ google_analytics: UA-119603762-1
 #   - vendor/gems/
 #   - vendor/ruby/
 
+theme: jekyll-theme-dinky
+
+
