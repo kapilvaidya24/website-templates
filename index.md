@@ -7,7 +7,7 @@ description: stuff
 
 # PeeplePunks
 
-Peeple Punks are bot generated punks. The bot scrapes images on the internet to identify faces in appropriate orientation by using ML vision techniques. The bots then generates the punk using the face.  
+Peeple Punks are bot generated punks. The bot scrapes the internet to identify faces in appropriate orientation by using ML vision techniques. The bots then generates the punk using the face.  
 
 100 unique collectible punks with proof of ownership stored on the Ethereum blockchain. A project inspired by the modern CryptoArt movement. 100 PeeplePunks will be made available in a gradual rollout. Peeple owning a PeeplePunk will get the right to create their own Punk avatar and register it as an NFT.
 
